@@ -1,0 +1,66 @@
+body {
+ background-color: #CDCBCB;
+}
+
+
+header 
+{
+  background-image: url("images/header.jpg");
+  height: 120px;
+  background-repeat:no-repeat;
+   background-color: #ffffff;
+  
+}
+
+#leftcolumn
+{
+  float:left;
+  width: 160px;
+  height:500px;
+  padding-top: 20px;
+  padding-left: 20px;
+  background-color: #ffffff;
+}
+
+#rightcolumn
+{
+  
+  float:right;
+  width: 200px;
+  height:500px;
+  padding-top: 10px;
+  padding-right: 30px;
+  background-color: #ffffff;
+  
+}
+
+#socialmedia img
+{
+	height: 50px;
+	width: 50px;
+	padding-left: 10px;
+}
+
+#maincontent 
+{
+  
+  margin-left:200px;
+  margin-right:200px;
+  text-align: center;
+  border: solid 1px black;
+  width:600px;
+}
+
+footer
+{
+	
+	border: solid 1px black;
+	text-align:center;
+}
+
+footer.clear
+{
+	clear:both;
+}
+	
+
