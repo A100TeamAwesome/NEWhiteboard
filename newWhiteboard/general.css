@@ -28,10 +28,10 @@ header
   float:right;
   width: 200px;
   height:500px;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-right: 30px;
   background-color: #ffffff;
-  
+  margin-bottom:20px;
 }
 
 #socialmedia img
@@ -53,7 +53,7 @@ header
 
 footer
 {
-	
+   
 	border: solid 1px black;
 	text-align:center;
 }
