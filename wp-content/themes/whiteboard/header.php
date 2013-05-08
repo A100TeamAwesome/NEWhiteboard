@@ -6,12 +6,12 @@
     <meta charset="utf-8" />
     <style>
         #header {
-            background: url("<?php bloginfo('stylesheet_directory'); ?> /images/header.jpg") no-repeat bottom center;
+            background: url("<?php bloginfo('stylesheet_directory'); ?> /images/logo.png") no-repeat bottom center;
             height:120px;
         }
         #headerimg  {
             height: 120px; 
-            width: 500px; 
+            width: 600px; 
         }
         h1 {
             display: none 
