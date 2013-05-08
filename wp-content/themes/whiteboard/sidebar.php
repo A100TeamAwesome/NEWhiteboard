@@ -1,9 +1,15 @@
-<div id="sidebar">
+<div class="sidebar">
 
-    <?php dynamic_sidebar('first-right-sidebar');?>
+    <div id="first-sidebar">
+        <?php dynamic_sidebar('first-right-sidebar');?>
+    </div>
     
-    <?php dynamic_sidebar('second-right-sidebar');?>
-
-    <?php dynamic_sidebar('third-right-sidebar');?>
+    <div id="second-sidebar">
+        <?php dynamic_sidebar('second-right-sidebar');?>
+    </div>
+    
+    <div id="third-sidebar">
+        <?php dynamic_sidebar('third-right-sidebar');?>
+    </div>
 
 </div>

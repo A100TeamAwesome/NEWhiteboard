@@ -1,7 +1,9 @@
 </div>
 
 <footer>
-    <?=date('Y')?> Copyright 
+    Powered by Independent Software
+    <br>
+    <?=date('Y')?> Copyright
 </footer>
 
 
