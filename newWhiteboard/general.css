@@ -14,6 +14,7 @@ header
 
 #leftcolumn
 {
+  float:left;
   width: 160px;
   height:500px;
   padding-top: 20px;
