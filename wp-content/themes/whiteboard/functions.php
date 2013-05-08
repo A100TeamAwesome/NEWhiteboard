@@ -23,3 +23,11 @@ register_sidebar(array(
     'before_widget' => '<div>',
     'after_widget' => '</div>'
 ));
+
+register_sidebar(array(
+    'name' => __('Left Sidebar'),
+    'id' => 'left-sidebar',
+    'description' => 'Left sidebar',
+    'before_widget' => '<div>',
+    'after_widget' => '</div>'
+));

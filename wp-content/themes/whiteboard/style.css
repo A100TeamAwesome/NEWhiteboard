@@ -22,6 +22,8 @@ body {
 
 #container {
     background: #fff;
+    margin-left: 200px;
+    margin-right: 200px;
     border-radius: 14px;
     overflow: auto;
 }
@@ -39,13 +41,14 @@ footer {
 }
 
 #main {
-    width: 590px;
-    border: 1px solid green;\
+    width: 50%;
+    border: 1px solid green;
     float: left;
+    margin-left: 5%;
 }
 
 #sidebar {
-    width: 200px;
+    width: 20%;
     border: 1px solid red;
     float: right;
 }
@@ -53,6 +56,17 @@ footer {
 #sidebar ul li {
     padding-bottom: 10px;
 }
+
+#sidebar-left {
+    width: 20%;
+    border: 1px solid red;
+    float: left;
+}
+
+#sidebar-left ul li {
+    padding-bottom: 10px;
+}
+
 
 nav ul li {
     display: inline-block;
